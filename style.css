@@ -9,7 +9,8 @@ header{
 
 }
 
-ul{height:100vh;
+ul{
+	height:100vh;
 	 background-size: cover;
 	 background-position: center;
 	float:right;
